@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="NightOwl" GUID="{a57b0794-df41-43e7-a560-39b9e0fee541}" BaseGUID="{21aad376-802e-4d3f-9b99-3790e6ca7e9a}">
+  <Theme Name="NightOwl_Test" GUID="{bbbb0794-df41-43e7-a560-39b9e0fee541}" BaseGUID="{a57b0794-df41-43e7-a560-39b9e0fee541}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />

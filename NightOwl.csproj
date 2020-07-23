@@ -58,6 +58,9 @@
     <None Include="demo\md.md" />
     <None Include="demo\json.json" />
     <None Include="demo\scss.scss" />
+    <None Include="NightOwl_Test.vstheme">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

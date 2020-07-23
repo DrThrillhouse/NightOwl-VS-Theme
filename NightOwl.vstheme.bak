@@ -2259,7 +2259,7 @@
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="ComboBoxBorder">
-        <Background Type="CT_RAW" Source="FF0B4D6B" />
+        <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="ComboBoxText">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
