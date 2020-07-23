@@ -9255,7 +9255,7 @@
         <Background Type="CT_RAW" Source="FF96ABB9" />
       </Color>
       <Color Name="WindowPanelBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0B4D6B" />
       </Color>
       <Color Name="WindowPanel">
         <Background Type="CT_RAW" Source="FF011627" />
