@@ -52,6 +52,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <None Include="DarkBase.vstheme">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="demo\cshtml.cshtml" />
     <None Include="demo\fsharp.fs" />
     <None Include="demo\vue.vue" />
